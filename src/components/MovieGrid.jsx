@@ -1,4 +1,4 @@
-import { MovieCard } from "./MovieCard";
+import { MovieCard } from "./movieCard";
 import styles from "./MovieGrid.module.css";
 import movies from "./movies.json";
 export function MoviesGrid() {
